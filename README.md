@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Hieu from Vietnam 🇻🇳
 
-![Profile Banner](https://path/to/your/profile/banner.png)
+![Hieu Tran Github Header Image](./github-header-image.png)
 
 Welcome to my GitHub profile. I'm excited to share with you my projects, contributions, and interests. Feel free to explore and get to know me better.
 
@@ -13,13 +13,13 @@ I'm Hieu Tran (Trần Kim Hiếu), a passionate developer with a strong interest
 I'm always open to interesting projects and collaborations. If you have any questions, ideas, or just want to say hi, feel free to reach out to me.
 
 - **Email**: [tr.kimhieu@gmail.com]
-- **LinkedIn**: https://www.linkedin.com/in/trankimhieu/
+- **LinkedIn**: https://www.linkedin.com/in/trankimhieu
 
 ## Blog
 
 I occasionally write blog posts about my projects, experiences, and insights. Check out my blog for more in-depth articles and discussions:
 
-- **[Your Blog Name]**: https://hieutk.com
+- **[Hieu Tran's Blog]**: https://hieutk.com
 
 Thank you for visiting my GitHub profile. I hope you find my work interesting and useful. Don't hesitate to get in touch—I'd love to connect with you!
 
