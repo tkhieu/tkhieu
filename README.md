@@ -7,10 +7,9 @@ Welcome to my GitHub profile. I'm excited to share with you my projects, contrib
 ## About Me
 
 I'm Hieu Tran (Trần Kim Hiếu), a passionate developer with a strong interest in Microsoft Techologies (.NET), Open Sources. I have been working in the field for a decace and have gained valuable experience in Backend, Mobile Application development. I thrive on challenges and love to find innovative solutions to complex problems. 
-| First Header  | Second Header |
+|    |   |
 | ------------- | ------------- |
 | ![Hieu's GitHub stats](https://github-readme-stats-hieutk.vercel.app/api?username=tkhieu&count_private=true&show_icons=true)  | [![Top Langs](https://github-readme-stats-hieutk.vercel.app/api/top-langs/?username=tkhieu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  |
-| Content Cell  | Content Cell  |
 
 ![Hieu's GitHub stats](https://github-readme-stats-hieutk.vercel.app/api?username=tkhieu&count_private=true&show_icons=true)
 
