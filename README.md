@@ -10,7 +10,7 @@ I'm Hieu Tran (Trần Kim Hiếu), a passionate developer with a strong interest
 
 ![Hieu's GitHub stats](https://github-readme-stats-hieutk.vercel.app/api?username=tkhieu&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkhieu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-hieutk.vercel.app/api/top-langs/?username=tkhieu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact Me
 
