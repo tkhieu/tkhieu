@@ -12,7 +12,7 @@ I'm Hieu Tran (Trần Kim Hiếu), a passionate developer with a strong interest
 
 I'm always open to interesting projects and collaborations. If you have any questions, ideas, or just want to say hi, feel free to reach out to me.
 
-- **Email**: [tr.kimhieu@gmail.com]
+- **Email**: tr.kimhieu@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/trankimhieu
 
 ## Blog
