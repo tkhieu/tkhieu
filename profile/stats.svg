@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Hieu Tran&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 8, Total Commits  (last year) : 6732, Total PRs: 1355, Total Issues: 396, Contributed to (last year): 21</desc>
+        <desc id="descId">Total Stars Earned: 8, Total Commits  (last year) : 6748, Total PRs: 1361, Total Issues: 396, Contributed to (last year): 21</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 76.72655447109793;
+        stroke-dashoffset: 76.72655442200197;
       }
     }
   
